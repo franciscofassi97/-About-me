@@ -1,22 +1,19 @@
 <h1 align="center">¡Hola! 👋 I'm Francisco</h1>
-<h3 align="center">Backend Developer | .NET | JavaScript Enthusiast</h3>
+<h3 align="center">Backend Developer </h3>
 
-### **About Me / Sobre Mí**  
-- 🔥 **4+ years** of experience as a developer, focused on **.NET** and **backend systems**, but also diving into **deployment**, **performance optimization**, and occasional **frontend tasks**.  
-  - *4+ años como desarrollador, especializado en **.NET** y backend, pero también realizando tareas de despliegue, optimización y frontend*.  
+### **About Me**  
+- 🔥 **4+ years** of experience building **scalable .NET backend systems**.  
+- 🌱 Exploring **clean architecture**, **DDD**, and **SOLID principles** to craft maintainable solutions.  
+- ❤️ Passionate about **clean code**, **performance optimizations**, and **mentoring teammates**.  
 
-- 💡 **Main stack**: .NET, C#, SQL, JavaScript/TypeScript, Node.js.  
-- 🌱 Exploring **design patterns**, **DDD**, and **maintainable codebases**.  
-  - *Explorando **patrones de diseño**, **DDD** y bases de código mantenibles*. 
+### **Key Achievements**  
+- 🎯 **Team Leadership**: Onboarded new developers, guiding them through project architecture and team workflows.  
+- 🔧 **Critical Problem Solving**: Resolved high-impact server configuration issues, date handling complexities, and performance bottlenecks.  
+- 🚀 **Deployment Expertise**: Collaborated on client deployments, specializing in troubleshooting elusive production errors.  
 
-- ❤️ I love **clean code**, **performance challenges**, and building scalable solutions.  
-  - *Me apasiona el código limpio, los retos de rendimiento y crear soluciones escalables*.  
-
-
-```markdown
 ### **🛠️ Tech Stack**  
 ```csharp
-🖥️ .NET | C# | ASP.NET Core | Node.js  
-🌐 JavaScript | TypeScript | HTML/CSS | React (Basics)  
-🗃️ SQL Server | Entity Framework  
-🔧 Git  | Azure DevOps | Postman  
+🖥️ C# | Node.js  
+🌐 JavaScript | TypeScript 
+🗃️ SQL Server | Mongodb
+🔧 Git | Azure DevOps | Postman | Trello 
